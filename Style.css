@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+#apps {
+    background-color: aqua;
+}
+#games {
+    background-color: blueviolet;
+}
+#chatbot {
+    background-color: chocolate;
+}
